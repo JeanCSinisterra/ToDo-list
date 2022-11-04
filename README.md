@@ -1,6 +1,6 @@
 ## ToDo-list 📝
 
-This project was started to put in practice my knowledge of EJS templates alongside with Node.js & Express
+This project was started to put in practice my knowledge of EJS templates alongside with Node.js & Express.
 You can use this tool here --> https://todo-list-web.onrender.com
 
 # Tech Stack
